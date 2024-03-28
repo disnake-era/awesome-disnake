@@ -23,6 +23,7 @@ Collection of awesome extensions, libraries, and bots for use with disnake!
 - [gearbot](https://github.com/gearbot/GearBot) - Helps you to keep the gears turning smoothly.
 - [reaction-light](https://github.com/eibex/reaction-light) - An easy-to-use self-hosted reaction role Discord bot written in Python.
 - [suggestionsbot](https://github.com/suggestionsbot/suggestions-bot) - A Discord bot designed to build better communities by encouraging a positive and constructive relationship between community and staff.
+- [JukeBot](https://github.com/Dysta/JukeBot) - A Discord music bot written in Python. 
 
 ## Other
 
