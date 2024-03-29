@@ -14,6 +14,7 @@ Collection of awesome extensions, libraries, and bots for use with disnake!
 - [disnake-ext-invitetracker](https://github.com/earluv/disnake-ext-invitetracker) - An extension that allows you to track invitations.
 - [Function-Cooldowns](https://github.com/Skelmis/Function-Cooldowns) - A simplistic decorator based approach to rate limiting function calls.
 - [Causar](https://github.com/Skelmis/Causar) - A high-level testing framework for disnake bots.
+- [Zonis](https://github.com/skelmis/zonis) - Agnostic IPC for Python programs, useful for implementing dashboards.
 
 ## Bots
 
