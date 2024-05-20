@@ -26,6 +26,7 @@ Collection of awesome extensions, libraries, and bots for use with disnake!
 - [suggestionsbot](https://github.com/suggestionsbot/suggestions-bot) - A Discord bot designed to build better communities by encouraging a positive and constructive relationship between community and staff.
 - [JukeBot](https://github.com/Dysta/JukeBot) - A Discord music bot written in Python. 
 
-## Other
+## Templates
 
 - [disnake-era-template](https://github.com/disnake-era/template) - A batteries-included disnake extension template.
+- [bot-template](https://github.com/OseSem/bot-template) - A package-structured template ready for you to use instantly without any hassle.
